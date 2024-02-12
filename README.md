@@ -5,6 +5,6 @@ PyTorch is an increasingly popular deep learning framework and primarily develop
 It gained popularity because of its pythonic approach and flexibility. It runs computations immediately. It also allows the use of a Python debugger. PyTorch is integrated in cloud platforms like Amazon Sagemaker, GCP and Azure. 
 
 ## Contents
-###[PyTorch Tensors](PyTorch_Tensors.ipynb)
+### [PyTorch Tensors](PyTorch_Tensors.ipynb)
 
 
